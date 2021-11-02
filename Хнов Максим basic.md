@@ -7,16 +7,16 @@
 **Задания для выполнения**
 
 1. Зарегистрироваться на сайте github.com!
-[](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.001.png)
+![](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.001.png)
 2. Установить на компьютере программу Git
 ![](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.002.png)
 
 3. Форкнуть данный репозиторий в свой аккаунт!
-[](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.003.png)
+![](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.003.png)
 4. Склонировать созданный удаленный репозиторий в директорию ~/git/test 
 ![](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.004.png)
 5. На локальной машине пишем скрипт ~/git/test/backup.sh, с произвольным содержанием 
-![Изображение выглядит как текст Автоматически созданное описание](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.005.png)
+![](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.005.png)
 
 6. Фиксируем скрипт в репозитории (делаем коммит) 
 
@@ -37,7 +37,7 @@
 ![Изображение выглядит как текст Автоматически созданное описание](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.010.png)
 
 10. Внести синтаксическую ошибку в скрипт 
-[Изображение выглядит как текст Автоматически созданное описание](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.011.png)
+![Изображение выглядит как текст Автоматически созданное описание](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.011.png)
 11. Сделать коммит ошибочного скрипта 
 ![Изображение выглядит как текст Автоматически созданное описание](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.012.png)
 12. Откатываем до последней рабочей версии 
