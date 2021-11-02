@@ -6,7 +6,7 @@
 
 **Задания для выполнения**
 
-1. Зарегистрироваться на сайте github.com![](Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.001.png)
+1. Зарегистрироваться на сайте github.com![](https://github.com/dvaisluk/0_git_basics/tree/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.001.png)
 1. Установить на компьютере программу Git
 
 ![Изображение выглядит как текст
