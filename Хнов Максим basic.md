@@ -37,13 +37,17 @@
 ![Изображение выглядит как текст Автоматически созданное описание](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.010.png)
 
 10. Внести синтаксическую ошибку в скрипт 
-![Изображение выглядит как текст Автоматически созданное описание](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.011.png)
+![](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.011.png)
+
 11. Сделать коммит ошибочного скрипта 
 ![Изображение выглядит как текст Автоматически созданное описание](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.012.png)
+
 12. Откатываем до последней рабочей версии 
 ![Изображение выглядит как текст Автоматически созданное описание](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.013.png)
+
 13. Просмотреть историю коммитов 
 ![Изображение выглядит как текст Автоматически созданное описание](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.014.png)
+
 14. Добавить несколько коммитов произвольного содержимого 
 
 ![Изображение выглядит как текст Автоматически созданное описание](https://github.com/dvaisluk/0_git_basics/raw/master/images/Aspose.Words.1f887781-5bf5-486c-801f-fb0ff4f93cd1.015.png)
